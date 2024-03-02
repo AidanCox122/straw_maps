@@ -1,0 +1,67 @@
+Number,Name,Description,GeometryType,Latitude,Longitude,Elevation,GeoidOffset,Site,Species,School,Grade,Date
+10,Tr-AeCa02,NA,Point,38.26981615,-122.9223839,3.969,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+11,Tr-AeCa03,NA,Point,38.27000558,-122.922407,2.951,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+12,Tr-AeCa04,NA,Point,38.27004424,-122.9224317,3.183,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+13,Tr-AeCa05,NA,Point,38.27010159,-122.9225319,5.241,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+14,Tr-AeCa06,NA,Point,38.27004439,-122.922564,7.088,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+15,Tr-AeCa07,NA,Point,38.26974889,-122.9225762,9.345,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+16,Tr-AeCa08,NA,Point,38.26973911,-122.9225372,8.616,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+17,Tr-AeCa09,NA,Point,38.26976044,-122.9224868,6.601,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+18,Tr-AeCa10,NA,Point,38.26968608,-122.9224141,5.096,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+19,Tr-AeCa11,NA,Point,38.26964008,-122.9224851,6.529,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+20,Tr-AeCa12,NA,Point,38.2695915,-122.9225088,8.173,-27.675,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+21,Tr-AeCa13,NA,Point,38.26958471,-122.9224057,5.012,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+22,Tr-AeCa14,NA,Point,38.26965982,-122.9225542,9.384,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+38,Tr-AeCa15,NA,Point,38.27009796,-122.9223876,2.133,-27.674,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+39,Tr-AeCa16,NA,Point,38.26940304,-122.9222052,0.54,-27.675,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+40,Tr-AeCa17,NA,Point,38.2693263,-122.9221805,0.287,-27.675,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+41,Tr-AeCa18,NA,Point,38.26926406,-122.9221556,0.016,-27.675,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+42,Tr-AeCa19,NA,Point,38.26922566,-122.9221218,-0.058,-27.675,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+43,Tr-AeCa20,NA,Point,38.2688967,-122.9220351,0.324,-27.675,True Grass,AeCa,Laurence Jones Middle School,6,12/15/2023
+44,Tr-CoSe01,NA,Point,38.2688658,-122.9219872,0.176,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+45,Tr-CoSe02,NA,Point,38.26886729,-122.9219602,-0.235,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+46,Tr-CoSe03,NA,Point,38.26896268,-122.9219841,-0.462,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+47,Tr-CoSe04,NA,Point,38.26898832,-122.9219553,-0.664,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+48,Tr-CoSe05,NA,Point,38.26900918,-122.9219808,-0.78,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+49,Tr-CoSe06,NA,Point,38.26906758,-122.9219627,-0.753,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+50,Tr-CoSe07,NA,Point,38.26908653,-122.921923,-0.74,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+51,Tr-CoSe08,NA,Point,38.26911144,-122.9219606,-0.798,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+52,Tr-CoSe09,NA,Point,38.26919072,-122.9219835,-1.071,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+53,Tr-CoSe10,NA,Point,38.26917553,-122.9220536,-0.716,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+54,Tr-CoSe11,NA,Point,38.26922476,-122.9220624,-0.972,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+55,Tr-CoSe12,NA,Point,38.26926804,-122.9220697,-0.917,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+57,Tr-CoSe13,NA,Point,38.26931532,-122.9220719,-1.056,-27.675,True Grass,CoSe,Laurence Jones Middle School,6,12/15/2023
+23,Tr-QuAg01,NA,Point,38.26964935,-122.922694,14.83,-27.675,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+24,Tr-QuAg02,NA,Point,38.26958219,-122.9227343,16.328,-27.675,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+25,Tr-QuAg03,NA,Point,38.26968875,-122.9227893,17.074,-27.675,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+26,Tr-QuAg04,NA,Point,38.26980311,-122.9228995,16.333,-27.675,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+27,Tr-QuAg05,NA,Point,38.2698926,-122.9229195,15.73,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+28,Tr-QuAg06,NA,Point,38.26988892,-122.9228006,13.876,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+29,Tr-QuAg07,NA,Point,38.26999902,-122.9229245,14.063,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+30,Tr-QuAg08,NA,Point,38.27008435,-122.922884,11.781,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+31,Tr-QuAg09,NA,Point,38.27011621,-122.9227765,8.757,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+32,Tr-QuAg10,NA,Point,38.27020209,-122.9228801,9.224,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+33,Tr-QuAg11,NA,Point,38.27034819,-122.9229102,8.103,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+34,Tr-QuAg12,NA,Point,38.27026178,-122.9227998,6.277,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+35,Tr-QuAg13,NA,Point,38.27035407,-122.9227438,4.793,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+36,Tr-QuAg14,NA,Point,38.27018186,-122.9226874,5.675,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+37,Tr-QuAg15,NA,Point,38.27024344,-122.9225524,3.057,-27.674,True Grass,QuAg,Laurence Jones Middle School,6,12/15/2023
+58,Tr-SaSp01,Mix of Salix lasiandra and S. laevigata,Point,38.26934512,-122.9220973,-1.033,-27.675,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+59,Tr-SaSp02,Mix of Salix lasiandra and S. laevigata,Point,38.26938987,-122.9220544,-0.823,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+60,Tr-SaSp03,Mix of Salix lasiandra and S. laevigata,Point,38.26944217,-122.922074,-0.74,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+61,Tr-SaSp04,Mix of Salix lasiandra and S. laevigata,Point,38.26941205,-122.921525,0.187,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+62,Tr-SaSp05,Mix of Salix lasiandra and S. laevigata,Point,38.26937127,-122.9215341,-0.05,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+63,Tr-SaSp06,Mix of Salix lasiandra and S. laevigata,Point,38.26934089,-122.9215127,-0.729,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+64,Tr-SaSp07,Mix of Salix lasiandra and S. laevigata,Point,38.26928674,-122.9215311,-0.543,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+65,Tr-SaSp08,Mix of Salix lasiandra and S. laevigata,Point,38.26926629,-122.9215827,-0.016,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+66,Tr-SaSp09,Mix of Salix lasiandra and S. laevigata,Point,38.26924528,-122.9215536,-0.018,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+67,Tr-SaSp10,Mix of Salix lasiandra and S. laevigata,Point,38.26921277,-122.9215795,-0.284,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+68,Tr-SaSp11,Mix of Salix lasiandra and S. laevigata,Point,38.26919954,-122.9216107,0.04,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+69,Tr-SaSp12,Mix of Salix lasiandra and S. laevigata,Point,38.26916006,-122.9216093,-0.238,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+70,Tr-SaSp13,Mix of Salix lasiandra and S. laevigata,Point,38.26913067,-122.9216307,0.28,-27.674,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+71,Tr-SaSp14,Mix of Salix lasiandra and S. laevigata,Point,38.26899075,-122.9216764,0.158,-27.675,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+72,Tr-SaSp15,Mix of Salix lasiandra and S. laevigata,Point,38.26896599,-122.9216583,-0.352,-27.675,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+73,Tr-SaSp16,Mix of Salix lasiandra and S. laevigata,Point,38.26894488,-122.9216762,-0.405,-27.675,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+74,Tr-SaSp17,Mix of Salix lasiandra and S. laevigata,Point,38.26886701,-122.9217041,0.22,-27.675,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+75,Tr-SaSp18,Mix of Salix lasiandra and S. laevigata,Point,38.26884705,-122.9216983,-0.274,-27.675,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
+76,Tr-SaSp19,Mix of Salix lasiandra and S. laevigata,Point,38.26881718,-122.9217053,-0.525,-27.675,True Grass,SaSp,Laurence Jones Middle School,6,12/15/2023
